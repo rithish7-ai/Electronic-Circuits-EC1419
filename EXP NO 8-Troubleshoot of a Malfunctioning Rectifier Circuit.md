@@ -8,6 +8,14 @@
 
 ## tabulation
 
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/fa194648-00a6-4531-b3cc-1a5b9352b20a" />
+
 ## attach graph sheet
 
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/16872368-9c7c-4f96-a4ff-635458e91d58" />
+
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/bc9b40a2-661f-4d6e-9019-43c5bcea3822" />
+
 ## result
+
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/f6c23878-396c-43f9-864e-c27952c274c9" />
