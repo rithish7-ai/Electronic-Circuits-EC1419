@@ -10,8 +10,17 @@
 
 ## tabulation
 
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/99f0c3ee-b9e2-4993-b379-471b4b873bba" />
+
+
 ## output graph sheet
+
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/766014ce-9027-44eb-952f-d5a938bad120" />
 
 ## calculation
 
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/f243c495-43fb-4786-9804-d2647a726109" />
+
 ## result
+
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/85181922-f5a0-4b82-aa88-fd88ecf7d803" />
