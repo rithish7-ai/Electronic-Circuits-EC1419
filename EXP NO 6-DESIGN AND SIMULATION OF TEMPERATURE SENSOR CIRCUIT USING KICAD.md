@@ -6,16 +6,16 @@
 
 
 ## Kicad circuit diagram
+<img width="1600" height="1206" alt="image" src="https://github.com/user-attachments/assets/372c4e42-e4aa-4a71-8acd-8cb513cf3e8e" />
 
-<img width="577" height="413" alt="image" src="https://github.com/user-attachments/assets/d187d32c-d762-46d9-84f6-bbffbfe3f76f" />
 
-<img width="910" height="783" alt="image" src="https://github.com/user-attachments/assets/08ff1c53-1f4c-45bb-a78b-8050369f0bd1" />
-
-<img width="925" height="868" alt="image" src="https://github.com/user-attachments/assets/878eeba9-0fe7-4d27-8d0d-df5c0c3f9e76" />
+## pcb layout diagram
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/52a6242b-5a10-4be7-9124-612aded53167" />
 
 ## output waveform
 
-<img width="931" height="571" alt="image" src="https://github.com/user-attachments/assets/2098654d-833b-4d70-a680-23f769c2456c" />
+<img width="1600" height="1334" alt="image" src="https://github.com/user-attachments/assets/0c9f47f1-cfb6-4ddb-a3e5-7495f0060741" />
+
 
 ## result
 
