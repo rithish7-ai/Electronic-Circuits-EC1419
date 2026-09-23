@@ -13,10 +13,7 @@
 
 
 
-<img width="677" height="352" alt="image" src="https://github.com/user-attachments/assets/1fec952e-1ede-4ce1-bb85-54d3dd5c302d" />
-<img width="713" height="643" alt="image" src="https://github.com/user-attachments/assets/c03a81c1-cdcb-439d-9abe-8af27b62247c" />
-<img width="543" height="467" alt="image" src="https://github.com/user-attachments/assets/f5df131e-fe94-4eab-b565-e7d48eb05fad" />
-<img width="707" height="473" alt="image" src="https://github.com/user-attachments/assets/cd04ef29-8f94-4be4-900f-29fd43d1932d" />
+
 
 
 ## LT spice circuit diagram
