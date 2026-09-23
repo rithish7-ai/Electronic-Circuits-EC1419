@@ -11,8 +11,8 @@
 <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/e4514c49-1a37-4c7d-8074-f9e877b71532" />
 
 ## PCB 3D view
+<img width="1600" height="958" alt="image" src="https://github.com/user-attachments/assets/3382797f-a2bf-42e5-943e-c64829a09e30" />
 
-<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/3b8318f2-594b-463c-8c0a-3e9b8e67a52c" />
 
 ## result
 
