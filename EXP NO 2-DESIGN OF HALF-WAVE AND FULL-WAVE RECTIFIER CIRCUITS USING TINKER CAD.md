@@ -7,17 +7,22 @@
 <img width="613" height="121" alt="image" src="https://github.com/user-attachments/assets/676c5397-3c7c-4985-b376-2d3dbd73b1d9" />
 
 
-## tinker cad circuit diagram
+## halfwave rectifier tinker cad circuit diagram
 <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/3f40d2a5-8414-4821-b7ba-78457f332c7f" />
+## fullwave rectifier tinker cad circuit diagram
 <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/22dbd342-fc66-4a4c-9b8f-0767a3133e49" />
 
-## ripple factor calculation
+## tabulation
+## halfwave rectifier
 <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/8ae912a5-e8df-463f-83e0-9b5435e35a36" />
-<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/2aae13df-39e8-43f4-811b-d3e99d953087" />
+## fullwave rectifier
+<img width="1466" height="1553" alt="image" src="https://github.com/user-attachments/assets/23209392-426a-44ad-9579-08047e053a7c" />
+
 
 ## output graph
 <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/8195fdc6-02bd-4c75-9728-7d6a6f2d58e5" />
-<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/6b7b023c-3000-4274-97de-51618b49507a" />
+<img width="1590" height="1600" alt="image" src="https://github.com/user-attachments/assets/803cccae-b263-4950-aa23-e9155a93c9f8" />
+
 
 ## result
 <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/bdea0d8e-bcd4-43da-8617-57c6a46c7fc6" />
