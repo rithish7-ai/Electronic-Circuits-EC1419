@@ -8,7 +8,7 @@
 <img width="717" height="572" alt="image" src="https://github.com/user-attachments/assets/b5d68b8a-ef96-4b66-8478-b135403fd865" />
 <img width="586" height="707" alt="image" src="https://github.com/user-attachments/assets/43bc2a1b-6216-48b5-aaf3-857c36eb2586" />
 <img width="632" height="687" alt="image" src="https://github.com/user-attachments/assets/d7f34879-1ed5-46ef-ae94-63f0fe49acc2" />
-<img width="670" height="212" alt="image" src="https://github.com/user-attachments/assets/bc13bd31-7d40-4d98-93b6-75e3acce59f1" />
+
 
 
 ## circuit diagram
